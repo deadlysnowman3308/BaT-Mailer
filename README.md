@@ -28,11 +28,12 @@
 * Unzip the tool 
 * run BaT-Mailer.exe
 
-* First type recipient or client mail address
-* Then type own or your mail address
+* First type recipient or client Gmail address
+* Then type own or your Gmail address
 * Then type gmail password
 * Add or type subject 
 * Type Body or message
 * Press enter for send
 * Press "Y" for add file 
 * If you add a file then just drag and drop the file into the tool & Press enter.
+
